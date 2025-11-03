@@ -1,0 +1,116 @@
+
+form.formular 
+{	
+	font-size: 12px;
+	padding: 10px;
+	text-align:center;
+	font-family:verdana;
+	font-weight:bold;
+	background-color:#f4f4f4;
+	-moz-border-radius: 10px; /* Firefox */
+	-webkit-border-radius: 10px; /* Safari, Chrome */
+	border-radius: 10px; /* CSS3 */
+	background: -webkit-gradient(linear, left top, left bottom, from( #ffffff ), to( #EEEEEE )); 
+    background: -moz-linear-gradient(top, #ffffff, #EEEEEE ); 
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#EEEEEE');
+	width:300px;
+	border:1px solid #eee;
+}
+
+
+
+.formular fieldset {
+	margin-top: 20px;
+	padding: 15px;
+	border: 1px solid #B5B8C8;
+}
+
+.formular legend {
+	font-size: 12px;
+	color: #15428B;
+	font-weight: 900;
+}
+
+.formular fieldset label {
+	float: none;
+	text-align: inherit;
+	width: auto;
+}
+
+.formular label span {
+	color: #000;
+}
+
+.formular input,.formular select,.formular textarea {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.formular .text-input 
+{
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width:100%;
+	color: #146DB4;
+	padding:7px 10px;
+	border: 1px solid #ddd;
+	font-size: 14px;
+	margin-top: 4px;
+	background: #FFF repeat-x;
+}
+
+.formular textarea {
+	width: 250px;
+	height: 70px;
+	color: #555;
+	padding: 4px;
+	border: 1px solid #B5B8C8;
+	font-size: 14px;
+	margin-top: 4px;
+	background: #FFF repeat-x;
+}
+
+.formular .infos {
+	background: #FFF;
+	color: #333;
+	font-size: 12px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.formular span.checkbox,.formular .checkbox {
+	display: inline;
+}
+
+.formular .submit {
+	
+	border: 1px solid #AAA;
+	padding: 4px;
+	margin-top: 20px;
+	float: right;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.formular hr {
+	clear: both;
+	visibility: hidden;
+}
+
+.formular h2 
+{
+	color:#146DB4;
+	padding-top:10px;
+	font-size:30px;
+}
+
+.formular .fc-error {
+	width: 350px;
+	color: 555;
+	padding: 4px;
+	border: 1px solid #B5B8C8;
+	font-size: 12px;
+	margin-bottom: 15px;
+	background: #FFEAEA;
+}

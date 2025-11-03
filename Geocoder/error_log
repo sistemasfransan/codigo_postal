@@ -1,0 +1,4 @@
+[09-Dec-2015 23:28:39 America/Bogota] PHP Fatal error:  Cannot instantiate interface Geocoder\Geocoder in /home/jovo90/public_html/postal/Geocoder/geo.php on line 7
+[09-Dec-2015 23:32:56 America/Bogota] PHP Warning:  The use statement with non-compound name 'Geocoder' has no effect in /home/jovo90/public_html/postal/Geocoder/geo.php on line 6
+[09-Dec-2015 23:32:56 America/Bogota] PHP Fatal error:  Class 'Geocoder\Geocoder' not found in /home/jovo90/public_html/postal/Geocoder/geo.php on line 8
+[09-Dec-2015 23:33:12 America/Bogota] PHP Fatal error:  Cannot instantiate interface Geocoder\Geocoder in /home/jovo90/public_html/postal/Geocoder/geo.php on line 7
